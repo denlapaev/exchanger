@@ -1,5 +1,5 @@
 {
-    "name": "florianv/exchanger",
+    "name": "denlapaev/exchanger",
     "type": "library",
     "description": "Currency exchange rates framework for PHP",
     "keywords": ["currency", "money", "rate", "conversion", "exchange rates"],
